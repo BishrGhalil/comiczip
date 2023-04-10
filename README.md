@@ -13,7 +13,7 @@ check out [releases](https://github.com/BishrGhalil/comiczip/releases) for execu
 
 clone the repo and open the directory in the terminal emulator, Then:
 ```
-pipenv install
+pipenv install --dev
 pipenv shell
 pipenv run build
 ```
